@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1525696677 source:c:\users\paul\desktop\practicas\mercadolibre\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+
+1525753946 source:c:\users\paul\desktop\practicas\mercadolibre\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+	"funciones.h"
+
+1525753971 c:\users\paul\desktop\practicas\mercadolibre\lib.h
+
+1525491998 c:\users\paul\desktop\practicas\mercadolibre\funciones.h
+
+1525753959 source:c:\users\paul\desktop\practicas\mercadolibre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"funciones.h"
+

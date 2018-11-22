@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1538966693 source:c:\users\paul\desktop\utn-practicas\tpdesectores\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+
+1538850437 c:\users\paul\desktop\utn-practicas\tpdesectores\utn.h
+
+1538929748 c:\users\paul\desktop\utn-practicas\tpdesectores\menu.h
+
+1538972454 source:c:\users\paul\desktop\utn-practicas\tpdesectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"empleados.h"
+	"sectores.h"
+	"almuerzos.h"
+
+1538850636 source:c:\users\paul\desktop\utn-practicas\tpdesectores\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+
+1538969038 source:c:\users\paul\desktop\utn-practicas\tpdesectores\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"empleados.h"
+
+1538970559 c:\users\paul\desktop\utn-practicas\tpdesectores\empleados.h
+	"sectores.h"
+
+1538962662 c:\users\paul\desktop\utn-practicas\tpdesectores\sectores.h
+
+1538962455 source:c:\users\paul\desktop\utn-practicas\tpdesectores\sectores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"sectores.h"
+
+1538971972 source:c:\users\paul\desktop\utn-practicas\tpdesectores\almuerzos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"empleados.h"
+	"almuerzos.h"
+
+1538971740 c:\users\paul\desktop\utn-practicas\tpdesectores\almuerzos.h
+	"empleados.h"
+	"menu.h"
+

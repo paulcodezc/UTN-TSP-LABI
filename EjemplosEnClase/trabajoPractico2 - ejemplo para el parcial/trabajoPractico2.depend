@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1538467417 source:c:\users\paul\desktop\utn-practicas\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees/ArrayEmployees.h"
+
+1538487642 c:\users\paul\desktop\utn-practicas\trabajopractico2\arrayemployees\arrayemployees.h
+
+1538487730 source:c:\users\paul\desktop\utn-practicas\trabajopractico2\arrayemployees\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"../ArrayEmployees/ArrayEmployees.h"
+

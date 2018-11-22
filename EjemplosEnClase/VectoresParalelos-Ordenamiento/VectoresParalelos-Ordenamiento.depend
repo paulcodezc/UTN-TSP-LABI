@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524258514 source:c:\users\paul\desktop\practicas\vectoresparalelos-ordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
