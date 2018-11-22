@@ -1,5 +1,6 @@
-#  Trabajo Práctico número 1
-El objetivo es hacer una calculadora. Para ello el programa iniciará y contará con un menú de opciones.
+#  Trabajo Práctico número 2
+El objetivo es hacer una sistema para una empresa que administre su nómina de empleados. Se sabe que
+dicha nómina bajo ninguna circunstancia superara los 1000 empleados. 
 
 Ver [Enunciado](https://github.com/programativo/UTN-TSP-LABI/blob/master/Trabajo%20Practico%202/Enunciado/TP2.pdf)
 
