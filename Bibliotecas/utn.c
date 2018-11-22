@@ -7,7 +7,6 @@
 #include "utn.h"
 
 
-
 /**
  * \brief Valida que un string que se le pasa sea numerico
  * \param str[] string a validar
