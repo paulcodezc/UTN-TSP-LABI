@@ -14,10 +14,10 @@ La cursada cuenta con cuatro trabajos prácticos con lo cual el objetivo es que 
 
 |N°				| Publicación 	| 
 | ------------- | ------------- |
-| 1 			| [Ir al trabajo práctico](/tree/master/Trabajo%20Practico%201) | 
-| 2 			| [Ir al trabajo práctico](/tree/master/Trabajo%20Practico%202) |
-| 3 			| [Ir al trabajo práctico](/tree/master/Trabajo%20Practico%203) | 
-| 4 			| [Ir al trabajo práctico](/tree/master/Trabajo%20Practico%204) |
+| 1 			| [Ir al trabajo práctico](https://github.com/programativo/UTN-TSP-LABI/tree/master/Trabajo%20Practico%201) | 
+| 2 			| [Ir al trabajo práctico](https://github.com/programativo/UTN-TSP-LABI/tree/master/Trabajo%20Practico%202) |
+| 3 			| [Ir al trabajo práctico](https://github.com/programativo/UTN-TSP-LABI/tree/master/Trabajo%20Practico%203) | 
+| 4 			| [Ir al trabajo práctico](https://github.com/programativo/UTN-TSP-LABI/tree/master/Trabajo%20Practico%2004) |
 
 ## Cursada
 
