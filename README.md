@@ -2,7 +2,7 @@
 <p align="center">
   <br>
   <img alt="Logo" src="https://github.com/programativo/UTN-TSP-LABI/blob/master/Bibliotecas/utnfra.jpg?raw=true" />
-  <br><br><br>
+  <br>
 </p>
 
 
