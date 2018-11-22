@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1542827405 source:c:\users\paul\desktop\utn-practicas\funcionesgenericas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1537606451 c:\users\paul\desktop\utn-practicas\funcionesgenericas\funciones.h
+
+1537428871 source:c:\users\paul\desktop\utn-practicas\funcionesgenericas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

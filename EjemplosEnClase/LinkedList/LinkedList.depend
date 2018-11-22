@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1542187552 source:c:\users\paul\desktop\practica\linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1532345152 c:\users\paul\desktop\practica\linkedlist\linkedlist.h
+
+1542314306 source:c:\users\paul\desktop\practica\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"SetYGet.h"
+
+1542732564 c:\users\paul\desktop\practica\linkedlist\setyget.h
+	"LinkedList.h"
+

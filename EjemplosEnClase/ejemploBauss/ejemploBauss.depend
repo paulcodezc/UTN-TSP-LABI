@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537943012 source:c:\users\paul\desktop\utn-practicas\ejemplobauss\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1537927487 c:\users\paul\desktop\utn-practicas\ejemplobauss\funciones.h
+
+1537936541 source:c:\users\paul\desktop\utn-practicas\ejemplobauss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

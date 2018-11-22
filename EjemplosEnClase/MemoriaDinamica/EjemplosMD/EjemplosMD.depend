@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540756239 source:c:\users\paul\desktop\utn-practicas\memoriadinamica\ejemplosmd\funciones.c
+	"funciones.h"
+
+1540756245 c:\users\paul\desktop\utn-practicas\memoriadinamica\ejemplosmd\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540756230 source:c:\users\paul\desktop\utn-practicas\memoriadinamica\ejemplosmd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

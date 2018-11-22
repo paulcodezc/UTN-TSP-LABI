@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1542632157 source:c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Constructores.h"
+	"CargaDeArchivos.h"
+	"utn.h"
+
+1542465039 source:c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1532345152 c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\linkedlist.h
+
+1542665031 source:c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"Constructores.h"
+	"LinkedList.h"
+	"CargaDeArchivos.h"
+	"utn.h"
+
+1542651627 c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\negocio.h
+	"LinkedList.h"
+
+1542465134 c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\utn.h
+	"LinkedList.h"
+
+1542641477 source:c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Constructores.h"
+	"utn.h"
+
+1542645717 c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\constructores.h
+	"LinkedList.h"
+	"negocio.h"
+
+1542645519 source:c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\constructores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Constructores.h"
+	"negocio.h"
+	"LinkedList.h"
+
+1542651407 c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\cargadearchivos.h
+
+1542651338 source:c:\users\paul\desktop\recursos parcial 2 - utn\clienteventa\cargadearchivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"negocio.h"
+	"utn.h"
+	"CargaDeArchivos.h"
+	"Constructores.h"
+
