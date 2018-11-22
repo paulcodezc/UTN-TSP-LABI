@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1538601075 source:c:\users\paul\desktop\utn-practicas\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1538487642 c:\users\paul\desktop\utn-practicas\trabajopractico2\arrayemployees\arrayemployees.h
+
+1538501766 source:c:\users\paul\desktop\utn-practicas\trabajopractico2\arrayemployees\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"../ArrayEmployees/ArrayEmployees.h"
+
+1538602225 c:\users\paul\desktop\utn-practicas\trabajopractico2\arrayemployees.h
+
+1538602230 source:c:\users\paul\desktop\utn-practicas\trabajopractico2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1542902819 source:c:\users\paul\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1541818484 c:\users\paul\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\trabajo practico 2\arrayemployees.h
+
+1542902759 source:c:\users\paul\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\trabajo practico 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1542903133 source:c:\users\paul\desktop\utn-programacion\trabajo practico 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1541818484 c:\users\paul\desktop\utn-programacion\trabajo practico 2\arrayemployees.h
+
+1542902819 source:c:\users\paul\desktop\utn-programacion\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+

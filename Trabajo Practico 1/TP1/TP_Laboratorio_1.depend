@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1536346902 source:c:\users\paul\desktop\trabajo practico 1\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1536346930 c:\users\paul\desktop\trabajo practico 1\tp_laboratorio_1\funciones.h
+
+1536346861 source:c:\users\paul\desktop\trabajo practico 1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536346902 source:c:\users\paul\desktop\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1536346930 c:\users\paul\desktop\trabajo practico 1\funciones.h
+
+1536346861 source:c:\users\paul\desktop\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1538603263 source:o:\cursos\tecnicatura superior en programacion\trabajos practicos\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1538603263 o:\cursos\tecnicatura superior en programacion\trabajos practicos\trabajo practico 1\funciones.h
+
+1542901752 source:o:\cursos\tecnicatura superior en programacion\trabajos practicos\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1538603263 source:c:\users\paul\desktop\utn-programacion\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1538603263 c:\users\paul\desktop\utn-programacion\trabajo practico 1\funciones.h
+
+1542901864 source:c:\users\paul\desktop\utn-programacion\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
