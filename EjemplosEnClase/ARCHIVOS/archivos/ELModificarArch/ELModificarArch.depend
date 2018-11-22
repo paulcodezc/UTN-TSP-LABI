@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541170945 source:c:\users\paul\desktop\elmodificararch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

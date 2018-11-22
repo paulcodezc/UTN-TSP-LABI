@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541122190 source:c:\users\paul\desktop\escribirarch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541112270 source:c:\users\paul\desktop\leerarch\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541314431 source:c:\users\paul\desktop\utn-practicas\archivos\archivos\leerarch\main.c
+	<stdio.h>
+	<stdlib.h>
+

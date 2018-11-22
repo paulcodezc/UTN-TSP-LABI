@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1538386223 source:c:\users\paul\desktop\utn-practicas\abm-bauss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+
+1538386339 source:c:\users\paul\desktop\utn-practicas\abm-bauss\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"empleados.h"
+
+1538386207 c:\users\paul\desktop\utn-practicas\abm-bauss\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
